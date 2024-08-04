@@ -52,3 +52,7 @@ Para cualquier consulta o sugerencia, por favor contacta a:
  [Linkedin](https://www.linkedin.com/in/ramiro-p%C3%A9rez-sanz-973772152/)
 
 ¡Gracias por usar nuestra aplicación y ayudarnos a mejorar el acceso a las farmacias de guardia en La Alcudia!
+
+
+![image](https://github.com/user-attachments/assets/ca7ee2fb-8104-46ad-b885-513a546213fd)
+
